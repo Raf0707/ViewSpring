@@ -1,4 +1,4 @@
-# Hi guys and As-Salamu Aleykum! 
+# Hi guys!
 # Welcome to Raf Console Application! 
 # Console API Done! 
 # Let's Start! 
